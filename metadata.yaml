@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/69
     wikipedia: http://en.wikipedia.org/wiki/Arthur_Conan_Doyle
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38443#The-Croxley-Master--A-Great-Tale-Of-The-Prize-Ring
 gutenberg_issued: '2011-12-30'
 gutenberg_type: Text
 identifiers:
