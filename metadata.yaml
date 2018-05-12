@@ -1,0 +1,33 @@
+_repo: The-Croxley-Master--A-Great-Tale-Of-The-Prize-Ring_38443
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 38443-h/images/cover2a.jpg
+creator:
+  author:
+    agent_name: Doyle, Arthur Conan
+    aliases:
+    - Conan Doyle, Arthur, Sir
+    - Doyle, A. Conan
+    - Doyle, Sir Arthur Conan
+    birthdate: 1859
+    deathdate: 1930
+    gutenberg_agent_id: '69'
+    url: http://www.gutenberg.org/2009/agents/69
+    wikipedia: http://en.wikipedia.org/wiki/Arthur_Conan_Doyle
+description: ''
+gutenberg_issued: '2011-12-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38443'
+  lccn: '07012635'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Boxing stories'
+- !lcsh 'Boxers (Sports) -- Fiction'
+title: 'The Croxley Master: A Great Tale Of The Prize Ring'
+url: http://www.gutenberg.org/ebooks/38443
